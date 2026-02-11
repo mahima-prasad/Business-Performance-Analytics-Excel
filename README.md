@@ -89,4 +89,5 @@ This project demonstrates practical Excel analytics capabilities aligned with re
 
 ---
 
-> 💬 _Feel free to explore the reports and connect with me on [LinkedIn](https://www.linkedin.com/in/mahima-prasad-analyst/) for collaboration or feedback._
+> 💬 _Feel free to explore the reports and connect with me on [LinkedIn](https://www.linkedin.com/in/mahima-prasad-analyst/) for collaboration or feedback.
+> **Portfolio**: [Mahima Prasad - Portfolio](https://codebasics.io/portfolio/Mahima-Prasad)
