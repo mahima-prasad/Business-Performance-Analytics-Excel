@@ -4,45 +4,44 @@
 
 ---
 
-## 📌 Project Overview
+## ⭐ Project Summary  
 
-This project focuses on analyzing sales and financial performance data using Microsoft Excel. The objective was to build structured reports that provide visibility into:
+### **Situation:**  
+The organization was handling **100,000+ sales transaction records** across multiple customers, products, and markets. However, the data existed in raw Excel sheets without structured reporting. There was limited visibility into **monthly revenue trends, target achievement %, customer contribution, and overall profitability**, which made performance tracking and decision-making challenging.
 
-- [_Customer Performance Report_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/Customer%20Performance%20Report.pdf)
-- [_Market Performance vs Sales Targets_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
-- Profit and Loss (P&L) reports by [_Fiscal Year_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [_Month_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)  
-- Profit and Loss (P&L) reports by [_Market_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)
+### **Task:**  
+Develop a structured Excel-based analytics solution to monitor and evaluate:  
+- Customer performance and revenue contribution  
+- Market-wise sales vs target comparison  
+- Monthly and yearly Profit & Loss performance  
+- Key financial KPIs for business monitoring  
+The objective was to convert raw transactional and financial data into meaningful, business-focused insights.
 
----
+### **Action:**  
+- Cleaned and transformed multi-sheet datasets using **Power Query**  
+- Built a relational data model in **Power Pivot**, connecting sales, customer, market, and date tables  
+- Created **DAX measures** for KPIs such as:
+  - Total Sales  
+  - Gross Profit  
+  - Profit Margin %  
+  - Target Achievement %  
+  - Year-over-Year Growth  
+- Designed **5+ structured analytical reports**, including:
+  - [_Customer Performance Report_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/Customer%20Performance%20Report.pdf)
+  - [_Market Performance vs Sales Targets_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+  - Profit and Loss (P&L) reports by [_Fiscal Year_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [_Month_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)  
+  - Profit and Loss (P&L) reports by [_Market_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)
+- Automated calculations and structured reporting to reduce manual effort  
 
-## 🎯 Business Objective
-
-Businesses often struggle to track:
-
-- Which customers contribute the most revenue  
-- Whether sales targets are being achieved  
-- How profitability changes across markets  
-- Monthly and yearly financial performance trends  
-
-This project addresses these challenges by building structured Excel-based analytical reports.
-
----
-
-## ⭐ Project Summary
-
-**Situation:**  
-Sales and financial data lacked structured performance visibility.
-
-**Task:**  
-Develop a reporting solution to monitor customer, market, and financial performance.
-
-**Action:**  
-Used Power Query for transformation, Power Pivot for modeling, and DAX for KPI calculations. Built multiple structured reports for different business perspectives.
-
-**Result:**  
-Delivered clear, executive-ready performance reports enabling data-driven decision-making.
+### **Result:**  
+- Enabled performance tracking across **5 fiscal years, months and quarters**  
+- Identified **top-performing customers contributing the highest share of total revenue**  
+- Highlighted underperforming markets using target variance analysis  
+- Improved reporting efficiency and reduced manual calculation errors  
+- Delivered executive-ready performance reports supporting data-driven decision-making  
 
 ---
+
 
 ## 🛠 Tools & Techniques Used
 
@@ -74,17 +73,6 @@ Delivered clear, executive-ready performance reports enabling data-driven decisi
 
 ---
 
-## 📊 Key KPIs Created
-
-- Total Sales  
-- Sales Growth %  
-- Target Achievement %  
-- Gross Profit  
-- Profit Margin %  
-- Year-over-Year Growth  
-
----
-
 ## 📈 Business Insights Enabled
 
 - Identified high-value customers driving revenue  
@@ -92,17 +80,6 @@ Delivered clear, executive-ready performance reports enabling data-driven decisi
 - Highlighted profitable and low-performing markets  
 - Tracked seasonal revenue fluctuations  
 - Monitored long-term financial growth trends  
-
----
-
-## 💼 Skills Demonstrated
-
-- Data Cleaning & Transformation  
-- Data Modeling  
-- KPI Development  
-- Financial Analysis  
-- Business Reporting  
-- Analytical Thinking  
 
 ---
 
