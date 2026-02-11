@@ -28,6 +28,22 @@ This project addresses these challenges by building structured Excel-based analy
 
 ---
 
+## ⭐ Project Summary
+
+**Situation:**  
+Sales and financial data lacked structured performance visibility.
+
+**Task:**  
+Develop a reporting solution to monitor customer, market, and financial performance.
+
+**Action:**  
+Used Power Query for transformation, Power Pivot for modeling, and DAX for KPI calculations. Built multiple structured reports for different business perspectives.
+
+**Result:**  
+Delivered clear, executive-ready performance reports enabling data-driven decision-making.
+
+---
+
 ## 🛠 Tools & Techniques Used
 
 - **Microsoft Excel**
@@ -87,22 +103,6 @@ This project addresses these challenges by building structured Excel-based analy
 - Financial Analysis  
 - Business Reporting  
 - Analytical Thinking  
-
----
-
-## ⭐ Project Summary
-
-**Situation:**  
-Sales and financial data lacked structured performance visibility.
-
-**Task:**  
-Develop a reporting solution to monitor customer, market, and financial performance.
-
-**Action:**  
-Used Power Query for transformation, Power Pivot for modeling, and DAX for KPI calculations. Built multiple structured reports for different business perspectives.
-
-**Result:**  
-Delivered clear, executive-ready performance reports enabling data-driven decision-making.
 
 ---
 
