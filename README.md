@@ -108,7 +108,7 @@ Delivered clear, executive-ready performance reports enabling data-driven decisi
 
 ## 🚀 Why This Project Matters
 
-This project demonstrates practical Excel analytics capabilities aligned with real-world business reporting needs. It reflects strong fundamentals required for a Data Analyst role, including structured data handling, KPI development, and financial performance analysis.
+This project demonstrates practical Excel analytics capabilities aligned with real-world business reporting needs. It reflects strong fundamentals required for a Data Analyst role, including structured data handling, KPI development, and financial performance analysis. [View Project Presentation](https://www.linkedin.com/posts/mahima-prasad-analyst_dataanalytics-businessgrowth-excel-ugcPost-7408531684381622272-DNiu?utm_source=share&utm_medium=member_desktop&rcm=ACoAACSAWf8B55jdc6taMSKXCEilxINUeeX1jcc)
 
 ---
 
