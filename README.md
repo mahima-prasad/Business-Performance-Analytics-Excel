@@ -1,76 +1,115 @@
-#  Excel Sales & Finance Analytics Projects
+# Business Performance Analytics – Excel Project
 
-### 🎯 Project Overview
-This repository showcases Excel-based analytics projects focused on **Sales** and **Finance** performance reporting.  
-Each project demonstrates the use of **data modeling, Power Query, Power Pivot, and DAX** to extract insights and support business decision-making.  
+> Transforming raw sales and financial data into structured business insights using Excel, Power Query, and data modeling techniques.
 
 ---
 
-## 📊 Sales Report
+## 📌 Project Overview
 
-- **Project Objectives:**
-  1. Create a detailed [_Customer Performance Report_](https://github.com/mahima-prasad/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)  
-  2. Conduct a comprehensive comparison between [_Market Performance and Sales Targets_](https://github.com/mahima-prasad/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+This project focuses on analyzing sales and financial performance data using Microsoft Excel. The objective was to build structured reports that provide visibility into:
 
-- **Purpose of Sales Analytics:**  
-  Enable businesses to track, monitor, and evaluate their overall sales performance.
-
-- **Importance of Analyzing Sales Data:**  
-  Helps identify sales trends, monitor KPIs, and understand market behavior.
-
-- **Role of Reports:**  
-  Provide insights to determine effective customer discounts, support negotiations, and identify opportunities for expansion in high-potential markets.
+- [_Customer Performance Report_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/Customer%20Performance%20Report.pdf)
+- [_Market Performance vs Sales Targets_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+- Profit and Loss (P&L) reports by [_Fiscal Year_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [_Month_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)  
+- Profit and Loss (P&L) reports by [_Market_](https://github.com/mahima-prasad/Business-Performance-Analytics-Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
 ---
 
-## 💰 Finance Report
+## 🎯 Business Objective
 
-- **Project Objectives:**  
-  1. Create Profit and Loss (P&L) reports by [_Fiscal Year_](https://github.com/mahima-prasad/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [_Month_](https://github.com/mahima-prasad/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)  
-  2. Develop Profit and Loss (P&L) reports by [_Market_](https://github.com/mahima-prasad/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+Businesses often struggle to track:
 
-- **Purpose of Financial Analytics:**  
-  Assess financial health, support strategic decision-making, and enhance communication with stakeholders.
+- Which customers contribute the most revenue  
+- Whether sales targets are being achieved  
+- How profitability changes across markets  
+- Monthly and yearly financial performance trends  
 
-- **Importance of Analyzing Financial Data:**  
-  Enables benchmarking against previous periods and industry standards, forming the foundation for budgeting and forecasting.
-
-- **Role of Reports:**  
-  Help align financial planning with organizational goals and build confidence in the company’s financial stability.
+This project addresses these challenges by building structured Excel-based analytical reports.
 
 ---
 
-## ⚙️ Technical Skills
+## 🛠 Tools & Techniques Used
 
-- [x] Proficiency in ETL (Extract, Transform, Load) methodology  
-- [x] Creating dynamic date tables using Power Query  
-- [x] Deriving fiscal months and quarters  
-- [x] Building data model relationships using Power Pivot  
-- [x] Integrating new data into existing models  
-- [x] Writing DAX formulas for calculated columns and measures  
-
----
-
-## 💡 Soft Skills
-
-- [x] Strong understanding of Sales and Finance reporting concepts  
-- [x] Designing user-focused and visually clear reports  
-- [x] Streamlining report creation through optimization and attention to detail  
-- [x] Applying a structured, goal-oriented approach to report development  
+- **Microsoft Excel**
+- **Power Query** – Data cleaning and transformation  
+- **Power Pivot** – Data modeling and relationships  
+- **DAX Formulas** – KPI calculations  
+- Pivot Tables & Structured Reporting  
 
 ---
 
-## 📈 Tools Used
-- Microsoft Excel (Power Query, Power Pivot, DAX)
-- Data Visualization & Dashboard Design
-- Data Cleaning and Transformation
-- Business Performance Reporting
+## 📂 Dataset Information
+
+- Industry: FMCG
+- Data Type: Sales transactions and financial records
+- Time Period: FY2018–FY2022
+- Granularity: Customer, Market, Product, and Time level
 
 ---
 
-This project demonstrates my ability to combine **technical Excel expertise** with **analytical thinking** to create professional, insight-driven reports.  
-It reflects my focus on turning raw data into meaningful insights that drive business growth and financial clarity.
+## 🔄 Project Workflow
+
+1. Imported raw sales and financial datasets  
+2. Cleaned and transformed data using Power Query  
+3. Built data model using Power Pivot  
+4. Created calculated measures using DAX  
+5. Designed structured analytical reports  
+6. Exported reports in PDF format for presentation  
 
 ---
 
-> 💬 _Feel free to explore the reports and connect with me on [LinkedIn](https://www.linkedin.com/in/mahima-prasad-227109151/) for collaboration or feedback._
+## 📊 Key KPIs Created
+
+- Total Sales  
+- Sales Growth %  
+- Target Achievement %  
+- Gross Profit  
+- Profit Margin %  
+- Year-over-Year Growth  
+
+---
+
+## 📈 Business Insights Enabled
+
+- Identified high-value customers driving revenue  
+- Detected performance gaps against sales targets  
+- Highlighted profitable and low-performing markets  
+- Tracked seasonal revenue fluctuations  
+- Monitored long-term financial growth trends  
+
+---
+
+## 💼 Skills Demonstrated
+
+- Data Cleaning & Transformation  
+- Data Modeling  
+- KPI Development  
+- Financial Analysis  
+- Business Reporting  
+- Analytical Thinking  
+
+---
+
+## ⭐ Project Summary
+
+**Situation:**  
+Sales and financial data lacked structured performance visibility.
+
+**Task:**  
+Develop a reporting solution to monitor customer, market, and financial performance.
+
+**Action:**  
+Used Power Query for transformation, Power Pivot for modeling, and DAX for KPI calculations. Built multiple structured reports for different business perspectives.
+
+**Result:**  
+Delivered clear, executive-ready performance reports enabling data-driven decision-making.
+
+---
+
+## 🚀 Why This Project Matters
+
+This project demonstrates practical Excel analytics capabilities aligned with real-world business reporting needs. It reflects strong fundamentals required for a Data Analyst role, including structured data handling, KPI development, and financial performance analysis.
+
+---
+
+> 💬 _Feel free to explore the reports and connect with me on [LinkedIn](https://www.linkedin.com/in/mahima-prasad-analyst/) for collaboration or feedback._
